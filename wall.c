@@ -1,4 +1,7 @@
 #include "holberton/base.h"
+#ifdef __TRAVAUX__
+#error "NOT READY"
+#endif
 
 int main(int ac, char **av)
 {
