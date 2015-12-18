@@ -1,5 +1,6 @@
-https://twitter.com/holbertonschool/status/677584931359330304
+See https://twitter.com/holbertonschool/status/677584931359330304
 
+```
 root@production-503e7013:~/wall# cat wall.c holberton/base.h && gcc wall.c -o wall && ./wall
 #include "holberton/base.h"
 
@@ -18,3 +19,4 @@ int main(int ac, char **av)
 Holberton School Rocks :)
 Holberton School Rocks :)
 root@production-503e7013:~/wall#
+```
